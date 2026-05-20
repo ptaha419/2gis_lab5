@@ -9,4 +9,5 @@ package.json -text
 prettier.config.js -text 
 public/** -text 
 src/** -text 
-tsconfig.json -text
+tsconfig.json -text 
+asset-manifest.json -text
