@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@2gis/mapgl": "^1.31.1",
+    "@2gis/mapgl": "^1.72.3",
     "@2gis/mapgl-clusterer": "^2.5.0",
     "@2gis/mapgl-directions": "^2.0.1",
     "@2gis/mapgl-ruler": "^2.0.4",
@@ -14,7 +14,7 @@
     "@types/node": "^16.18.3",
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
-    "react": "^18.2.0",
+    "react": "^18.3.1",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.8.4",
@@ -47,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "@types/geojson": "^7946.0.16",
     "prettier": "^2.7.1"
   }
 }
