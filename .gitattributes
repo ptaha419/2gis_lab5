@@ -1,13 +1,12 @@
 * text=auto
+build/** -text
 *.json text eol=lf
 *.js text eol=lf
 *.css text eol=lf
 *.html text eol=lf
-build/** -text
 package-lock.json -text
-package.json -text 
-prettier.config.js -text 
-public/** -text 
-src/** -text 
-tsconfig.json -text 
-asset-manifest.json -text
+package.json -text
+prettier.config.js -text
+public/** -text
+src/** -text
+tsconfig.json -text
